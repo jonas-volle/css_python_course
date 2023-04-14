@@ -9,11 +9,15 @@ Kursmaterialen für das Seminar "Einführung in Python für die Computational So
 
 Die Folien der ersten Sitzung finden Sie [hier](day_0/introduction.ipynb)
 
+---
+
 ### Block 1
 
 #### Tag 1
 
 #### Tag 2
+
+---
 
 ### Block 2
 
