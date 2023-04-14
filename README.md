@@ -1,6 +1,6 @@
 # Einführung in Python für die Computational Social Science (CSS)
 
-Kursmaterialen für das Seminar "Einführung in Python für die Computational Social Science (CSS)" an der Otto-von-Guericke-Universität Magdeburg.
+Kursmaterialen für das Seminar "Einführung in Python für die Computational Social Science (CSS)" an der Otto-von-Guericke-Universität Magdeburg im Sommersemester 2023.
 
 
 ## Struktur
